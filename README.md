@@ -6,6 +6,8 @@ This is a remake of esx_doorlock, features:
 - Door locking animation
 - Object freezes once locked (No shooting door exploiting)
 
+![Door locking text preview](https://i.imgur.com/MohQ4eg.png)
+
 # Requirements
 - [ESX FRAMEWORK](https://github.com/ESX-Org/es_extended)
 
