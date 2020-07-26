@@ -24,4 +24,4 @@ line: 105 ("Unlocked")
 line: 108 ("Locked")
 
 # Join discord if you need help!
-[Discord](https://discord.gg/Zyq7kjw)
+[Discord](https://discord.gg/bEwhjJf)
